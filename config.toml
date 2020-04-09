@@ -1,5 +1,5 @@
-baseurl = "https://utscyberblogexample.netlify.com/"
-title = "johndoe"
+baseurl = "https://khyphen.netlify.com/"
+title = "Hi, I'm Kim"
 
 theme = "hugo-coder"
 
@@ -17,8 +17,8 @@ pygmentscodefencesguesssyntax = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Khyphen"
+    description = "K's personal website"
     keywords = "blog,developer,personal"
     info = "L33t hacker and coder"
     avatarurl = "images/avatar.jpg"
